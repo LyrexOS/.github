@@ -7,7 +7,6 @@
 ## ✨ Features
 - Smooth and fast UI experience
 - Battery and performance optimizations
-- Clean AOSP-based interface
 - Privacy and customization tools
 - OTA support (if implemented)
 
