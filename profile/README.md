@@ -15,3 +15,4 @@
 LyrexOS is crafted for those who want a sleek, beautiful Android experience without sacrificing speed or stability.
 
 **Light as air, strong as steel.**
+## Based on Lineage/crdroid
