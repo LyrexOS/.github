@@ -1,4 +1,4 @@
-# LyrexOS
+# LyrexOS [ W.I.P ]
 
 **LyrexOS** is a lightweight yet powerful custom Android ROM, designed for elegance, performance, and refinement.
 
